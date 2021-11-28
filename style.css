@@ -1,0 +1,194 @@
+.first{background-image:url(./01.png);
+    background-size: cover;
+    height:100vh;
+color: #fff;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+padding-left:10% ;
+padding-top: 10%;}
+.first h1{font-size: 75px;}
+.first p{font-size: 30px;}
+.btn{
+    width: 200px;
+    border-radius: 15px;
+    font-size: 25px;
+    margin-top: 50px;
+    border-style: solid;
+    border-color:rgba(255, 0, 0, 0.781); ;
+   background-color: rgba(255, 0, 0, 0.781);
+   color: white;}
+    
+
+.second{background-image: url(./02.png);
+    background-size: cover;
+ height: 100vh ;
+color:#ff0000;
+text-align: center;
+font-family: sans-serif;
+padding-top: 05%;}
+.image{border-radius: 200px ;
+    padding: 30px;
+display: inline-block;}
+.text{display: inline-block;
+padding: 30px;}
+
+
+.third{background-image:url(./03.png);
+ background-size: cover;
+height: 100vh;
+}
+.burger{border-radius: 400px;
+    float: left;
+    margin-left: 150px;
+    margin-top: 150px;
+    }
+.hp1{float: right;
+    margin-right: 150px;
+    margin-top: 200px;
+}
+.heading1{color: white;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 45px;}
+.pera1{color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;}
+    .button2 {
+        width: 200px;
+        border-radius: 15px;
+        font-size: 25px;
+        margin-top: 50px;
+        border-style: solid;
+    border-color:white ;
+        color: rgba(255, 0, 0, 0.781);
+        background-color: white;}
+
+
+.fourth{background-image: url(./04.png);
+background-size:cover;
+height: 100vh;}
+.hp2{float: left;
+margin-top: 200px;
+margin-left: 150px;}
+.heading2{color:red;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 45px;}
+.pera2{color: red;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 25px ;
+}
+.button3 {
+    width: 200px;
+    border-radius: 15px;
+    font-size: 25px ;
+    margin: 50px;
+    border-style: solid;
+    border-color:rgba(255, 0, 0, 0.781); ;
+    background-color:rgba(255, 0, 0, 0.781);
+    color: white;}
+.burgerimg{border-radius:400px;
+    float: right;
+    margin-right: 150px;
+    margin-top: 150px;}
+    
+    
+
+.fifth{background-image: url(./05.png);
+    background-size: cover;
+height:100vh;}
+.hp3{padding-top: 35px;
+    text-align: center;}
+.heading3{color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 45px;}
+.pera3{color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+padding: 05px;}    
+.text2{display: inline-block;
+    color: white;
+    margin-top: 20px;
+margin-left: 150px;
+padding: 90px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;}
+.d{text-align: center;
+font-size: 60px;}
+.dp{font-size: 25px;}
+
+
+
+.sixth{background-image: url(./66.png);
+background-size:cover;
+height: 100vh;}
+.hp4{padding-top: 10px;
+    text-align: center;}
+.heading4{color: red;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 45px;
+}
+.text3{display: inline-block;
+    color:red;
+    margin-top: 200px;
+margin-left: 160px;
+padding: 50px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;}
+.r{text-align: center;
+    font-size: 30px;}
+.rp{font-size: 15px;} 
+
+
+
+.seventh{background-image: url(./07.png);
+    background-size:cover;
+    height: 100vh;
+margin-top: 100px;}
+.text4{font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: center;
+color: white;
+padding-top: 150px;}
+.hp{font-size: 25px;
+}
+.h{font-size: 45px;}
+
+
+
+.eight{background-image: url(./09.png);
+background-size: cover;
+height: 100vh;}
+.text5{font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: center;
+padding-top: 150px;
+color: red;}
+.heading5{font-size: 75px;
+text-align: center;}
+.pera4{font-size: 25px;}
+.btn4{
+ width: 400px ;
+ border-radius:15px 0px 0px 15px;
+ border-style: solid;
+ border-color: white;
+background-color: white;
+font-size: 25px;}
+.btn5{ width: 200px ;
+    border-radius:0px 15px 15px 0px;
+    font-size: 25px;
+    border-style: solid;
+    border-color:rgba(255, 0, 0, 0.781);
+    background-color:rgba(255, 0, 0, 0.781);
+    color: white}
+
+
+
+    .ninth{
+        background-color: rgb(26, 24, 24);
+        background-size: cover;
+        height: 100vh;
+        color :white;
+        font-family: sans-serif;
+        
+      }
+.heading6{font-size: 45px;}
+.pera5{
+        font-size: 25px;
+ }
+ .last{display: inline-block;
+ padding: 40px;
+padding-top: 200px;}
